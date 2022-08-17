@@ -1,0 +1,80 @@
+.btn-wrapper {
+  text-align: center;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.5;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.L{
+    color: black;
+    text-align: center;  
+    font-size: 50px;
+    padding-top: 5%;
+    float: left;
+    padding-right: 10px;
+}
+
+.R{
+    color: black;
+    text-align: center;  
+    font-size: 50px;
+    padding-top: 5%;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.lesson-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: left;
+}
+
+.heading {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color:black;
+  
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+  margin-right: 25px;
+}
+
+.lesson-icon {
+  position: relative;
+  }
+
+.lesson-icon p {
+  position: absolute;
+  top: 0%;
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  
+}
+
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  color: black;
+}
+

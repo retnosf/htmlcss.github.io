@@ -37,7 +37,7 @@
 .lesson {
   float: left;
   width: 25%;
-  margin-right: 25px;
+  margin-right: 100px;
 }
 
 .lesson-icon {
@@ -46,7 +46,8 @@
 
 .lesson-icon p {
   position: absolute;
-  top: 0%;
+  top: 5%;
+  left:10%;
   width: 100%;
   color: white;
   text-align: center;

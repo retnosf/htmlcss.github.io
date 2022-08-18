@@ -4,28 +4,14 @@
 
 .btn {
   padding: 12px 24px;
-  color: white;
+  color: black;
   display: inline-block;
   opacity: 0.5;
   border-radius: 4px;
   text-align: center;
 }
 
-.L{
-    color: black;
-    text-align: center;  
-    font-size: 50px;
-    padding-top: 5%;
-    float: left;
-    padding-right: 10px;
-}
 
-.R{
-    color: black;
-    text-align: center;  
-    font-size: 50px;
-    padding-top: 5%;
-}
 
 .btn:hover {
   opacity: 1;
@@ -36,7 +22,7 @@
   padding-left: 5%;
   padding-right: 5%;
   background-color: #f7f7f7;
-  text-align: left;
+  text-align: center;
 }
 
 .heading {
@@ -51,7 +37,7 @@
 }
 
 .lesson {
-  float: left;
+  float: center;
   width: 25%;
   margin-right: 25px;
 }
@@ -63,12 +49,14 @@
 .lesson-icon p {
   position: absolute;
   top: 0%;
+  right:50px;
   width: 100%;
-  color: white;
+  color: black;
   text-align: center;
   font-size: 50px;
   
 }
+
 
 .text-contents {
   width: 80%;

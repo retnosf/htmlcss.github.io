@@ -11,8 +11,6 @@
   text-align: center;
 }
 
-
-
 .btn:hover {
   opacity: 1;
 }
@@ -22,7 +20,7 @@
   padding-left: 5%;
   padding-right: 5%;
   background-color: #f7f7f7;
-  text-align: center;
+  text-align: left;
 }
 
 .heading {
@@ -37,7 +35,7 @@
 }
 
 .lesson {
-  float: center;
+  float: left;
   width: 25%;
   margin-right: 25px;
 }
@@ -49,14 +47,12 @@
 .lesson-icon p {
   position: absolute;
   top: 0%;
-  right:50px;
   width: 100%;
-  color: black;
+  color: white;
   text-align: center;
   font-size: 50px;
   
 }
-
 
 .text-contents {
   width: 80%;
